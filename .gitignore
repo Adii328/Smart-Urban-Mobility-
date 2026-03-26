@@ -1,0 +1,8 @@
+.vscode/
+apache-maven-3.9.6/
+maven.zip
+target/
+node_modules/
+dist/
+build/
+.env
